@@ -20,3 +20,7 @@
   - a pointer or reference to the next node in the list.
 - To add new element,we create a new node which has a reference to the next node in the list.
 - If we delete the node at index 1, we still need to make the pointer of the <u>head</u> node point to the node at index 2.
+
+### Reference
+
+- https://www.youtube.com/watch?v=eyctPxn7nZ0
